@@ -123,3 +123,23 @@
 
 
 // console.log(container)
+
+
+// const arr = ['dejun', 'prinz', 'cina']
+
+// const arrMaped = arr.map((item) => `<li>${item}</li>`).join('')
+
+// const container = document.querySelector('.class-test')
+
+
+// container.innerHTML = `
+// <ol class='test'>${arrMaped}</ol>
+// `
+
+
+
+// const func = () => console.log('clicked')
+
+// container.addEventListener('click', func)
+
+// console.log(container)
